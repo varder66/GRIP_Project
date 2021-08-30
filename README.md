@@ -1,6 +1,6 @@
-### GRIP_The_spark_foundation
-#### Task2 
+### GRIP_The_spark_foundation Project
+#### TaskA
 Solved this score prediction problem 
-#### Task5
+#### TaskB
 Buisness Analytics Task
 
